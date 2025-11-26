@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dzulkarnain00
 - 👀 I’m interested in becoming web developer
-- 🌱 I’m currently learning JavaScript, HTML, CSS, React
+- 🌱 I’m currently learning JavaScript, HTML, CSS, React, Next, Express, MongoDB
 - 💞️ I’m looking to collaborate on anything related to web development
 - 📫 How to reach me : email: dzulkarnainridzuan@gmail.com / phone number: +601112586568
 - 😄 Pronouns: he/him
